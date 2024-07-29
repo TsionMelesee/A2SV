@@ -1,6 +1,3 @@
-from typing import List
-
-
 class Solution:
         def isCovered(self, ranges, left, right):
             diff = [0] * 52
